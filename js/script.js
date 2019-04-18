@@ -4,7 +4,7 @@ console.log("App is alive");
 
 // #11 using document.ready()
 
-$( document ).ready(function() {
+$(document).ready(function() {
     // Handler for .ready() called.
     listChannels(compareNew); 
     loadEmojis(); 
