@@ -304,6 +304,10 @@ li.selected {
     margin-left: 20px;
 }
 
+#countchar{
+    color: darkgrey;
+}
+
 .message h3 {
     /* Message-meta medium-sized text, non-italic */
     font-size: medium;
